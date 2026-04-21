@@ -1,0 +1,166 @@
+{
+  "date": "Sat, 18 Apr 2026 09:24:27 GMT",
+  "appName": "Angry Birds 2",
+  "playerIdentifier": "RCb8f8b7f1-b74b-4591-b8aa-77f847609607",
+  "description": "This is an automated report based on your request. It provides a summary of the data that we have collected for you in this game. Please also read the privacy notice to understand how your identifiers may be visible to partner companies such as advertising networks.\nThe link to this file expires 40 days after it was created. Please save this information on your computer if you want to refer to it later.\nThe report consists of multiple sections, each summarising your data in one of our services. The data is YAML-formatted. Each row has a heading describing that piece of data. Dates are represented in a computer-readable format called the Unix timestamp. For example, \"registration_date: 1523318400000\" means that your first session took place on Tuesday, April 10, 2018.\nTerms of Service: https://www.rovio.com/terms-of-service\nPrivacy Notice: https://www.rovio.com/privacy-notice\nIf you have further questions about your personal data not included in the summary, please contact support@rovio.com and include the first section of the report (\"ID, Customer ID and Fan ID\").",
+  "summary": {
+    "session": {
+      "player": {
+        "data": {
+          "private": {},
+          "public": {}
+        },
+        "id": "RCb8f8b7f1-b74b-4591-b8aa-77f847609607",
+        "customerId": 372939491307,
+        "fanId": "FNPKrwGzzxkp30MDuTHU/WhOZDOka6XrcSfW2ojpR80MMg=",
+        "created": 1770920313676,
+        "modified": 1776493757291,
+        "facebookNetworkId": "10165493900331874",
+        "gameCenterNetworkId": "G:8442388483",
+        "signInWithAppleNetworkId": "001360.9b08d09b50994172957cd90003c357b1.1848",
+        "networksInfo": {
+          "facebook": {
+            "email": null,
+            "banned": false,
+            "muted": false
+          }
+        },
+        "devices": {
+          "playerDevices": [
+            {
+              "device": {
+                "id": "AN3C9E4684323DD82D21B8538D546C3631368FE0E27FDC0F0EAA19CD4956BFE99E",
+                "name": null,
+                "type": "iPhone15,2",
+                "os": "iOS",
+                "osVersion": "26.4.1",
+                "lastLoginMss": 1776493757294,
+                "sdkDebugLoggingEnabled": false,
+                "banned": false,
+                "deviceBasedFanId": false,
+                "tokenExpirationSeconds": 0,
+                "playerId": "RCb8f8b7f1-b74b-4591-b8aa-77f847609607",
+                "appVersion": "9.0.0",
+                "buildId": null,
+                "distributionChannel": "apple",
+                "distributionChannelName": "Apple",
+                "locale": "en-JO",
+                "sdkVersion": "7.15.0.0",
+                "lastLoginMs": 1776493757294
+              }
+            }
+          ]
+        }
+      }
+    },
+    "push": {
+      "devices": [
+        {
+          "deviceId": "AN3C9E4684323DD82D21B8538D546C3631368FE0E27FDC0F0EAA19CD4956BFE99E",
+          "messageToken": "9C39361682DF0AA662573685EF3E057F783687C4CBD51FAD7B1174A5E0D10FB0",
+          "type": "APNS",
+          "environment": {
+            "deviceType": "iPhone15,2",
+            "clientVersion": "9.0.0",
+            "os": "iOS",
+            "osVersion": "26.4.1",
+            "distChannel": "Apple",
+            "deviceAccountId": null,
+            "locale": "en-JO",
+            "utcOffsetInSeconds": 10800,
+            "buildId": null,
+            "definition": null,
+            "installationId": "D5D2B840-DDA6-4A94-B3BE-4E832F627323"
+          }
+        }
+      ]
+    },
+    "profile": {
+      "profiles": [
+        {
+          "id": "RCb8f8b7f1-b74b-4591-b8aa-77f847609607",
+          "appId": "Abba",
+          "fanId": "FNPKrwGzzxkp30MDuTHU/WhOZDOka6XrcSfW2ojpR80MMg=",
+          "segment": 66,
+          "appFields": {},
+          "customFields": {},
+          "profileFields": {
+            "registration_timestamp": 1770920313000,
+            "money_spent": 0.0,
+            "last_seen": 1776384000000,
+            "avg_sessions_per_day_last_7_days": 5.143,
+            "money_spent_last_14_days": 0.0,
+            "has_rovio_id": false,
+            "video_rewards": 286,
+            "country_isocode2": "JO",
+            "origin_network": "Unknown",
+            "days_seen_last_7_days": 7,
+            "ads_impressions": 340,
+            "facebook_auth": true,
+            "sessions_last_14_days": 48,
+            "avg_sessions_per_day_last_14_days": 3.429,
+            "sessions_last_7_days": 36,
+            "participated_in_ab_test": true,
+            "avg_minutes_per_day_last_14_days": 44.4,
+            "ads_clicks": 123,
+            "last_seen_timestamp": 1776451700000,
+            "purchase_count": 0,
+            "days_played": 41,
+            "ad_revenue": 0.897,
+            "origin_top_category": "Organic",
+            "money_spent_last_7_days": 0.0,
+            "registration_date": 1770854400000,
+            "days_seen_last_14_days": 10,
+            "avg_minutes_per_day_last_7_days": 61.826,
+            "first_video_reward_date": 1770940800000
+          }
+        }
+      ],
+      "session_count": 132,
+      "max_purchase_price": 0.0,
+      "realTimeFields": {
+        "last_seen_timestamp": 1776493757311,
+        "last_seen": 1776493757311,
+        "previously_seen_timestamp": 1776450560057
+      },
+      "dynamicFields": {
+        "push_notifications_enabled": true,
+        "countries_arpdau": 0.028442253442887182,
+        "devices_arpdau": 0.2380290218470574,
+        "conversion_value": 1,
+        "idfa_tracking_status": "Authorized",
+        "ab2_player_quality": 0.74373674,
+        "last_session_start": 1776493757000
+      }
+    },
+    "moderator": {
+      "data": {
+        "watched": false,
+        "suspendsCount": 0,
+        "counts": {
+          "warnings": 0,
+          "images": 0,
+          "suspends": 0,
+          "reports": 0,
+          "content_deleted": 0,
+          "high_risk_images": 0,
+          "bans": 0,
+          "trust_level_changes": 0,
+          "time_content_was_liked": 0,
+          "total_followers": 0,
+          "reported_that_resulted_in_action": 0,
+          "high_risk_content": 0
+        }
+      },
+      "reports_filed_successfully": 0,
+      "trustLevel": 4,
+      "mutedUntil": 0
+    },
+    "messaging": {
+      "numberOfMessages": 0
+    },
+    "storage": {
+      "keyCount": 2
+    }
+  }
+}
